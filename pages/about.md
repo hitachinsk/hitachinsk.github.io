@@ -27,6 +27,6 @@ title: 关于我
 
 - QQ : 2595532330
 
-- Email : [gmail](hehedazkd@gmail.com)
+- Email : hehedazkd@gmail.com
 
 - GitHub : [hitachinsk的github空间](https://github.com/hitachinsk)
