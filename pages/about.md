@@ -3,30 +3,30 @@ layout: mypost
 title: 关于我
 ---
 
-> Hello 陌生人，欢迎访问 TMaize Blog
+> Hello 欢迎访问我的博客!
 
-该博客托管于 GitHub Page，国内默认解析到腾讯云，以保证国内外的访问速度。留言页面使用腾讯的“吐个槽”，另外使用的腾讯的 MTA 分析工具统计访问量
-
-主题使自己写的，见[tmaize-blog](https://github.com/TMaize/tmaize-blog)，欢迎 Star&Fork。另喜欢本博客的欢迎**添加友链**，在[留言板](chat.html)留言即可
+该博客托管于 GitHub Page,感谢[tmaize-blog](https://github.com/TMaize/tmaize-blog)提供的博客模板,该模板简洁明了,是我的不二选择
 
 ## 相关技能
 
-- 熟悉 JavaScript 语言， 熟练使用 Vue 全家桶,jQuery 等前端框架
+- 了解 JavaScript 语言, DOM, jQuery 等前端框架
 
-- 熟悉 Java，NodeJs,Go 等后端语言
+- 熟悉 python/C/JAVA 编程, 数据结构与算法, 目前正在学习C++
 
-- 后端框架 Spring，Hibernate，JFinal，Mybatis 略有了解
+- 熟练使用 pytorch 深度学习框架, 了解 tensorflow, 目前正在学习paddle paddle
 
-- 数据库方面能熟练使用 MySQL,Oracle，MongoDB
+- 对金融理财投资和游戏有兴趣
 
-- Linux 的简单使用，各种服务的搭建
+- 数据库方面能了解使用 MySQL, Oracle
 
-- 能够使用 Git/SVN 对代码版本进行控制
+- Linux 的简单使用
+
+- 能够使用 Git 对代码版本进行控制
 
 ## 联系我
 
-- QQ : 1772314831
+- QQ : 2595532330
 
-- Email : [tmaize@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
+- Email : [gmail](hehedazkd@gmail.com)
 
-- GitHub : [https://github.com/tmaize](https://github.com/tmaize)
+- GitHub : [hitachinsk的github空间](https://github.com/hitachinsk)
