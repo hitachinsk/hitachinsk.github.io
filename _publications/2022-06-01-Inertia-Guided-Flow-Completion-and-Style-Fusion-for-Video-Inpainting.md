@@ -11,3 +11,5 @@ citation: ' Kaidong Zhang,  Jingjing Fu,  Dong Liu, &quot;Inertia-Guided Flow Co
 [Codes](https://github.com/hitachinsk/ISVI) /
 [Demo](https://www.youtube.com/watch?v=dHuFDPDWkYc&t=4s) /
 [Demo (Bilibili)](https://www.bilibili.com/video/BV1AR4y1F7RB?spm_id_from=333.999.0.0)
+
+[![ISVI demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1659703995/video_to_markdown/images/youtube--dHuFDPDWkYc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=dHuFDPDWkYc&t=4s "ISVI demo")
