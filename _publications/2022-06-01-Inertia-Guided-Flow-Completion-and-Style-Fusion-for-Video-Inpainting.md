@@ -8,17 +8,18 @@ venue: 'In the proceedings of Proceedings of the IEEE/CVF Conference on Computer
 citation: ' Kaidong Zhang,  Jingjing Fu,  Dong Liu, &quot;Inertia-Guided Flow Completion and Style Fusion for Video Inpainting.&quot; In the proceedings of Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.'
 ---
 
+### Demo Video
+[![ISVI demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1659703995/video_to_markdown/images/youtube--dHuFDPDWkYc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=dHuFDPDWkYc&t=4s "ISVI demo")
+
 ### Abstract
 Physical objects have inertia, which resists changes in the velocity and motion direction. Inspired by this, we introduce inertia prior that optical flow, which reflects object motion in a local temporal window, keeps unchanged in the adjacent preceding or subsequent frame. We propose a flow completion network to align and aggregate f low features from the consecutive flow sequences based on the inertia prior. The corrupted flows are completed under the supervision of customized losses on reconstruction, f low smoothness, and consistent ternary census transform. The completed flows with high fidelity give rise to significant improvement on the video inpainting quality. Nevertheless, the existing flow-guided cross-frame warping methods fail to consider the lightening and sharpness variation across video frames, which leads to spatial incoherence after warping from other frames. To alleviate such problem, weproposetheAdaptiveStyle Fusion Network(ASFN), which utilizes the style information extracted from the valid regions to guide the gradient refinement in the warped regions. Moreover, we design a data simulation pipeline to reduce the training difficulty of ASFN. Extensive experiments show the superiority of our method against the state-of-theart methods quantitatively and qualitatively.
 
 
 ### Links
 [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Inertia-Guided_Flow_Completion_and_Style_Fusion_for_Video_Inpainting_CVPR_2022_paper.pdf) /
+[Supplementary](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zhang_Inertia-Guided_Flow_Completion_CVPR_2022_supplemental.pdf) /
 [Codes](https://github.com/hitachinsk/ISVI) /
-[Demo](https://www.youtube.com/watch?v=dHuFDPDWkYc&t=4s) /
 [Demo (Bilibili)](https://www.bilibili.com/video/BV1AR4y1F7RB?spm_id_from=333.999.0.0)
-
-[![ISVI demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1659703995/video_to_markdown/images/youtube--dHuFDPDWkYc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=dHuFDPDWkYc&t=4s "ISVI demo")
 
 ### Bibtex
 ```
