@@ -33,6 +33,7 @@ Awards
 * Outstanding graduates of Xi'an Jiaotong University
 * Pengkang Scholarship (Top 10% in Xi'an Jiaotong University)
 * 1st Prize in Shaanxi at Contemporary Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics.
+* Soong Ching Ling scholarship
 
 Services
 ======
