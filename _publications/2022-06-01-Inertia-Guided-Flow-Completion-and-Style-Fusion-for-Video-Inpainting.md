@@ -19,7 +19,8 @@ Physical objects have inertia, which resists changes in the velocity and motion 
 ### Links
 [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Inertia-Guided_Flow_Completion_and_Style_Fusion_for_Video_Inpainting_CVPR_2022_paper.pdf) /
 [Supplementary](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zhang_Inertia-Guided_Flow_Completion_CVPR_2022_supplemental.pdf) /
-[Codes](https://github.com/hitachinsk/ISVI) /
+[Codes](https://github.com/hitachinsk/ISVI) / 
+[Keynotes](https://hitachinsk.github.io/files/ISVI_keynotes.pdf) /
 [Demo (Bilibili)](https://www.bilibili.com/video/BV1AR4y1F7RB?spm_id_from=333.999.0.0)
 
 ### Bibtex
