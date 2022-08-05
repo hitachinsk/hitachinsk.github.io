@@ -8,4 +8,13 @@ excerpt: 'We first integrate the philosophy of flow-guided method to transformer
 venue: 'In the proceedings of European Conference on Computer Vision (ECCV)'
 citation: ' Kaidong Zhang,  Jingjing Fu,  Dong Liu, &quot;Flow-Guided Transformer for Video Inpainting.&quot; In the proceedings of European Conference on Computer Vision (ECCV), 2022.'
 ---
-paper / [Codes](https://github.com/hitachinsk/FGT)
+
+### Demo Video
+
+### Abstract
+We propose a flow-guided transformer, which innovatively leverage the motion discrepancy exposed by optical flows to instruct the attention retrieval in transformer for high fidelity video inpainting. More specially, we design a novel flow completion network to complete the corrupted flows by exploiting the relevant flow features in a local temporal window. With the completed flows, we propagate the content across video frames, and adopt the flow-guided transformer to synthesize the rest corrupted regions. We decouple transformers along temporal and spatial dimension, so that we can easily integrate the locally relevant completed flows to instruct spatial attention only. Furthermore, we design a flow-reweight module to precisely control the impact of completed flows on each spatial transformer. For the sake of efficiency, we introduce window partition strategy to both spatial and temporal transformers. Especially in spatial transformer, we design a dual perspective spatial MHSA, which integrates the global tokens to the window-based attention. Extensive experiments demonstrate the effectiveness of the proposed method qualitatively and quantitatively.
+
+### Links
+paper / Supplementary / [Codes](https://github.com/hitachinsk/FGT) / Keynotes / Demo (Bilibili)
+
+### Bibtex
