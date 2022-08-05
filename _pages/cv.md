@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ph.D** 2019.09-2024.06 (Expected)
+  * Electronics and Information Engineering, University of Science and Technology of China, China.
+* **B.S.** 2015.09-2019.06
+  * Electronics and Information Engineering, Xi'an Jiaotong University, China.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020.08-2022.01: Research Intern
+  * Microsoft Research Asia (MSRA), Beijing, China
+  * Mentor: Jingjing Fu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 2019.06-2020.01: Teaching Assistant
+  * Coarse: Data structure and algorithm in University of Science and Technology of China, Hefei, China
+  * Supervisor: Dong Liu
+
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MSRA Star of Tomorrow Excellent Internship Award
+* 2nd place (runner up) in AI+4K HDR track of the first National Artificial Intelligence Competition **(CNY 500000)**
+* Outstanding graduates of Xi'an Jiaotong University
+* Pengkang Scholarship (Top 10% in Xi'an Jiaotong University
+* 1st Prize in Shaanxi at Contemporary Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics.
+
+Services
+======
+Reviewer of CVPR, ECCV, TCSVT and the Journal of University of Science and Technology of China (JUST).
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
