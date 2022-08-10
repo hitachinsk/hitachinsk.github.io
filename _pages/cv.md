@@ -29,7 +29,7 @@ Work experience
 Awards
 ======
 * MSRA Star of Tomorrow Excellent Internship Award
-* 2nd place (runner up) in [AI+4K HDR track of the first National Artificial Intelligence Competition](https://sist.ustc.edu.cn/2020/0304/c5146a413984/page.htm) **(CNY 500K)**
+* 2nd place (runner up) in AI+4K HDR track of the first National Artificial Intelligence Competition **(CNY 500K)**
 * Outstanding graduates of Xi'an Jiaotong University
 * Peng Kang Scholarship (Top 10% in Xi'an Jiaotong University)
 * 1st Prize in Shaanxi at Contemporary Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics.
