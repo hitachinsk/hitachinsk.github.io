@@ -14,6 +14,6 @@ His research intrest includes low-level vision, medical image processing and NeR
 
 Kaidong Zhang received the B.Sc degree from Xi'an Jiaotong University in 2019. Here is the [curriculum vitae](https://hitachinsk.github.io/files/kd_cv.pdf).
 
-### News
+## News
 - 2022.7.4 One paper is accepted by ECCV 2022
 - 2022.3.2 One paper is accepted by CVPR 2022
