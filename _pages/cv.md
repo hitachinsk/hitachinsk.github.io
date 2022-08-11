@@ -23,7 +23,7 @@ Work experience
   * Mentor: Jingjing Fu
 
 * 2019.06-2020.01: Teaching Assistant
-  * Coarse: Data structure and algorithm in University of Science and Technology of China, Hefei, China
+  * Course: Data structure and algorithm in University of Science and Technology of China, Hefei, China
   * Supervisor: Dong Liu
 
 Awards
