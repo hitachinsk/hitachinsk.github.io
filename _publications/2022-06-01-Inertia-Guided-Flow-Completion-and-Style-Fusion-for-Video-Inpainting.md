@@ -23,6 +23,10 @@ Physical objects have inertia, which resists changes in the velocity and motion 
 [Keynotes](https://hitachinsk.github.io/files/ISVI_keynotes.pdf) /
 [Demo (Bilibili)](https://www.bilibili.com/video/BV1AR4y1F7RB?spm_id_from=333.999.0.0)
 
+![Stars](https://img.shields.io/github/stars/hitachinsk/ISVI?style=social) ![Forks](https://img.shields.io/github/forks/hitachinsk/ISVI?style=social)
+
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX1BGZjQ4ODh2QzJoVm5MMjlMS2Qwazc5TWNnTGszdzRhYXdWYg==#hitachinsk/ISVI&Date" frameBorder="0"></iframe>
+
 ### Bibtex
 ```
 @InProceedings{Zhang_2022_CVPR,
