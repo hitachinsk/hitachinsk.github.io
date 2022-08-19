@@ -17,4 +17,6 @@ We propose a flow-guided transformer, which innovatively leverage the motion dis
 ### Links
 [Paper](https://arxiv.org/abs/2208.06768) / Supplementary / [Codes](https://github.com/hitachinsk/FGT) / Keynotes / Demo (Bilibili)
 
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX1BGZjQ4ODh2QzJoVm5MMjlMS2Qwazc5TWNnTGszdzRhYXdWYg==#hitachinsk/FGT&Date" frameBorder="0"></iframe>
+
 ### Bibtex
