@@ -23,3 +23,13 @@ We propose a flow-guided transformer, which innovatively leverage the motion dis
 <iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX1BGZjQ4ODh2QzJoVm5MMjlMS2Qwazc5TWNnTGszdzRhYXdWYg==#hitachinsk/FGT&Date" frameBorder="0"></iframe>
 
 ### Bibtex
+```bibtex
+@misc{zhang2022flowguided,
+      title={Flow-Guided Transformer for Video Inpainting}, 
+      author={Kaidong Zhang and Jingjing Fu and Dong Liu},
+      year={2022},
+      eprint={2208.06768},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
