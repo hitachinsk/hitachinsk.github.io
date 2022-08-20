@@ -14,7 +14,7 @@ Education
 * **Ph.D** 2019.09-2024.06 (Expected)
   * Electronics and Information Engineering, University of Science and Technology of China, China.
 * **B.S.** 2015.09-2019.06
-  * Electronics and Information Engineering, Xi'an Jiaotong University, China.
+  * Electronics and Information Engineering, Xi\'an Jiaotong University, China.
 
 Work experience
 ======
