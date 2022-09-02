@@ -15,6 +15,6 @@ His research interests include low-level vision, medical image processing and Ne
 Kaidong Zhang received the B.Sc degree from Xi\'an Jiaotong University in 2019. Here is the [curriculum vitae](https://hitachinsk.github.io/files/kd_cv.pdf).
 
 # News
-- 2022.9.2 I will give a talk (in Chinese) about our newly proposed video inpainting method "FGT" in "AI新青年" lecture, Oct, 2022.
+- 2022.9.2 I will give a talk (in Chinese) about our newly proposed video inpainting method \"FGT\" (accepted to ECCV 2022) in \"AI新青年\" lecture, Oct, 2022.
 - 2022.7.4 One paper is accepted by ECCV 2022
 - 2022.3.2 One paper is accepted by CVPR 2022
