@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**The more things change, the more they stay the same. - Jean-Baptiste Alphonse Karr**
+
 Education
 ======
 * **Ph.D** 2019.09-2024.06 (Expected)
