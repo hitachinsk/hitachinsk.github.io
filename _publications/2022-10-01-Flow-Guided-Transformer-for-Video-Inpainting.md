@@ -11,7 +11,7 @@ citation: ' Kaidong Zhang,  Jingjing Fu,  Dong Liu, &quot;Flow-Guided Transforme
 
 ### News
 I will give a talk in the "AI new trend" lecture, which aims for Chinese audience. The date of the lecture is 14th Oct, 2022. In this lecture, I will provide detailed analysis and future directions about FGT and transformer in video inpainting even low level vision tasks. If you are interested in FGT, it will be a valuable choice to attend this lecture. Here is the poster of the lecture.
-<img src="FGT.jpg" width="420" />
+![avatar](FGT.jpg)
 
 ### Demo Video
 [![FGT-demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1660879749/video_to_markdown/images/youtube--BC32n-NncPs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=BC32n-NncPs&t=8s "FGT-demo")
