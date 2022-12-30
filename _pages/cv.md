@@ -30,7 +30,7 @@ Work experience
 
 Awards
 ======
-* Invited speaker in Youth PhD Talk-ECCV 2022, hosted by AITime. [Certificate](https://hitachinsk.github.io/files/AITime_certificate.pdf), [back](https://hitachinsk.github.io/files/AITime_back.pdf).
+* Invited speaker in Youth PhD Talk-ECCV 2022, hosted by AITime. ([certificate](https://hitachinsk.github.io/files/AITime_certificate.pdf), [back](https://hitachinsk.github.io/files/AITime_back.pdf))
 * MSRA Star of Tomorrow Excellent Internship Award
 * 2nd place (runner up) in AI+4K HDR track of the first National Artificial Intelligence Competition **(CNY 500K)**
 * Outstanding graduates of Xi\'an Jiaotong University
