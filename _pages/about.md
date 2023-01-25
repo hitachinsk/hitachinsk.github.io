@@ -15,6 +15,7 @@ His research interests include low-level vision, medical image processing and Ne
 Kaidong Zhang received the B.Sc degree from Xi\'an Jiaotong University in 2019. Here is the [curriculum vitae](https://hitachinsk.github.io/files/kd_cv.pdf).
 
 # News
+- 2023.1.25 The journal extension of FGT ([FGT++](https://arxiv.org/abs/2301.10048)) is released on Arxiv.
 - 2022.12.14 I was invited as a speaker to give a [talk](https://www.bilibili.com/video/BV1rP4y1D7sk/?spm_id_from=333.999.0.0&vd_source=916c0b6d462622965d6f886892e4458a) (in Chinese) about FGT in Youth PhD Talk ECCV-2022, hosted by AITime.
 - 2022.10.14 I accomplished a [talk](https://course.zhidx.com/c/NDNlYWQyNmIyZjQwOTdhOWUzODM=) (in Chinese) about our newly proposed video inpainting method \"FGT\" (accepted by ECCV 2022) in \"AI新青年\" lecture.
 - 2022.7.4 One paper is accepted by ECCV 2022
