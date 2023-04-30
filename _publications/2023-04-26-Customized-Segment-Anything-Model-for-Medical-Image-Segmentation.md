@@ -1,33 +1,38 @@
 ---
-title: "Exploiting Optical Flow Guidance for Transformer-Based Video Inpainting"
+title: "Customized Segment Anything Model for Medical Image Segmentation"
 collection: publications
-permalink: /publication/2023-01-24-Exploiting-Optical-Flow-Guidance-for-Transformer-Based-Video-Inpainting
-authors: <b>Kaidong Zhang</b>, Jialun Peng, Jingjing Fu, Dong Liu
-date: 2023-01-24
-excerpt: 'This paper is a journal extension of FGT. In this paper, we reformulate the research motivation and propose more methods to exploit the guidance from completed optical flows to transformer-based video inpainting, including the flow-guided feature propagation module and the newly designed temporal deformable MHSA in temporal transformer block. Besides, we also explore the supervision from frequency domain in video inpainting. FGT++ achieves greatly improved compared with FGT and current existing video inpainting baselines.'
+permalink: /publication/2023-04-26-Customized-Segment-Anything-Model-for-Medical-Image-Segmentation
+authors: <b>Kaidong Zhang</b>, Dong Liu
+date: 2023-04-26
+excerpt: 'We propose SAMed, which firstly adopt Segment Anything Model (SAM) in medical image semantic segmentation. In consideration of performance, deployment and storage overhead comprehensively, we adopt low rank approximation technology to customize a small fraction of parameters in image encoder of SAM. With the finetuning of mask decoder and the prompt encoder and a series training strategies, we achieve highly competitive performance on Synapse multi-organ segmentation dataset.'
 venue: 'Arxiv preprint, 2023'
-citation: ' Kaidong Zhang, Jialun Peng, Jingjing Fu, Dong Liu, &quot;Exploiting Optical Flow Guidance for Transformer-Based Video Inpainting.&quot; Arxiv preprint, 2023.'
+citation: ' Kaidong Zhang, Dong Liu, &quot;Customized Segment Anything Model for Medical Image Segmentation.&quot; Arxiv preprint, 2023.'
 ---
 
 ### Abstract
-Transformers have been widely used for video processing owing to the multi-head self attention (MHSA) mechanism. However, the MHSA mechanism encounters an intrinsic difficulty for video inpainting, since the features associated with the corrupted regions are degraded and incur inaccurate self attention. This problem, termed query degradation, may be mitigated by first completing optical flows and then using the flows to guide the self attention, which was verified in our previous work – flow-guided transformer (FGT). We further exploit the flow guidance and propose FGT++ to pursue more effective and efficient video inpainting. First, we design a lightweight flow completion network by using local aggregation and edge loss. Second, to address the query degradation, we propose a flow guidance feature integration module, which uses the motion discrepancy to enhance the features, together with a flow-guided feature propagation module that warps the features according to the flows. Third, we decouple the transformer along the temporal and spatial dimensions, where flows are used to select the tokens through a temporally deformable MHSA mechanism, and global tokens are combined with the inner-window local tokens through a dual perspective MHSA mechanism. FGT++ is experimentally evaluated to be outperforming the existing video inpainting networks qualitatively and quantitatively.
+We propose SAMed, a general solution for medical image segmentation. Different from the previous methods, SAMed is built upon the
+large-scale image segmentation model, Segment Anything Model (SAM),
+to explore the new research paradigm of customizing large-scale models for medical image segmentation. SAMed applies the low-rank-based
+(LoRA) finetuning strategy to the SAM image encoder and finetunes it
+together with the prompt encoder and the mask decoder on labeled medical image segmentation datasets. We also observe the warmup finetuning
+strategy and the AdamW optimizer lead SAMed to successful convergence and lower loss. Different from SAM, SAMed could perform semantic segmentation on medical images. Our trained SAMed model achieves
+81.88 DSC and 20.64 HD on the Synapse multi-organ segmentation
+dataset, which is on par with the state-of-the-art methods. We conduct
+extensive experiments to validate the effectiveness of our design. Since
+SAMed only updates a small fraction of the SAM parameters, its deployment cost and storage cost are quite marginal in practical usage.
 
 ### Links
-[Paper](https://arxiv.org/pdf/2301.10048.pdf) / [Codes](https://github.com/hitachinsk/FGT)
-![Star](https://img.shields.io/github/stars/hitachinsk/FGT?style=social) ![Fork](https://img.shields.io/github/forks/hitachinsk/FGT?style=social)
+[Paper](https://arxiv.org/pdf/2304.13785.pdf) / [Codes](https://github.com/hitachinsk/SAMed)
+![Star](https://img.shields.io/github/stars/hitachinsk/SAMed?style=social) ![Fork](https://img.shields.io/github/forks/hitachinsk/SAMed?style=social)
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX1BGZjQ4ODh2QzJoVm5MMjlMS2Qwazc5TWNnTGszdzRhYXdWYg==#hitachinsk/FGT&Date" frameBorder="0"></iframe>
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwXzhBVzZ6ZXJEdHlKNjJuSzc1bGEwTjdPYVVIcVpmRzRkVXRGWg==#hitachinsk/SAMed&Date" frameBorder="0"></iframe>
 
 ### Bibtex
 ```bibtex
-@misc{https://doi.org/10.48550/arxiv.2301.10048,
-  doi = {10.48550/ARXIV.2301.10048},
-  url = {https://arxiv.org/abs/2301.10048},
-  author = {Zhang, Kaidong and Peng, Jialun and Fu, Jingjing and Liu, Dong},
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Exploiting Optical Flow Guidance for Transformer-Based Video Inpainting},
-  publisher = {arXiv},
-  year = {2023},
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@article{samed,
+  title={Customized Segment Anything Model for Medical Image Segmentation},
+  author={Kaidong Zhang, and Dong Liu},
+  journal={arXiv preprint arXiv:2304.13785},
+  year={2023}
 }
 ```
