@@ -1,0 +1,33 @@
+---
+title: "Exploiting Optical Flow Guidance for Transformer-Based Video Inpainting"
+collection: publications
+permalink: /publication/2023-01-24-Exploiting-Optical-Flow-Guidance-for-Transformer-Based-Video-Inpainting
+authors: <b>Kaidong Zhang</b>, Jialun Peng, Jingjing Fu, Dong Liu
+date: 2023-01-24
+excerpt: 'This paper is a journal extension of FGT. In this paper, we reformulate the research motivation and propose more methods to exploit the guidance from completed optical flows to transformer-based video inpainting, including the flow-guided feature propagation module and the newly designed temporal deformable MHSA in temporal transformer block. Besides, we also explore the supervision from frequency domain in video inpainting. FGT++ achieves greatly improved compared with FGT and current existing video inpainting baselines.'
+venue: 'Arxiv preprint, 2023'
+citation: ' Kaidong Zhang, Jialun Peng, Jingjing Fu, Dong Liu, &quot;Exploiting Optical Flow Guidance for Transformer-Based Video Inpainting.&quot; Arxiv preprint, 2023.'
+---
+
+### Abstract
+Transformers have been widely used for video processing owing to the multi-head self attention (MHSA) mechanism. However, the MHSA mechanism encounters an intrinsic difficulty for video inpainting, since the features associated with the corrupted regions are degraded and incur inaccurate self attention. This problem, termed query degradation, may be mitigated by first completing optical flows and then using the flows to guide the self attention, which was verified in our previous work – flow-guided transformer (FGT). We further exploit the flow guidance and propose FGT++ to pursue more effective and efficient video inpainting. First, we design a lightweight flow completion network by using local aggregation and edge loss. Second, to address the query degradation, we propose a flow guidance feature integration module, which uses the motion discrepancy to enhance the features, together with a flow-guided feature propagation module that warps the features according to the flows. Third, we decouple the transformer along the temporal and spatial dimensions, where flows are used to select the tokens through a temporally deformable MHSA mechanism, and global tokens are combined with the inner-window local tokens through a dual perspective MHSA mechanism. FGT++ is experimentally evaluated to be outperforming the existing video inpainting networks qualitatively and quantitatively.
+
+### Links
+[Paper](https://arxiv.org/pdf/2301.10048.pdf) / [Codes](https://github.com/hitachinsk/FGT)
+![Star](https://img.shields.io/github/stars/hitachinsk/FGT?style=social) ![Fork](https://img.shields.io/github/forks/hitachinsk/FGT?style=social)
+
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX1BGZjQ4ODh2QzJoVm5MMjlMS2Qwazc5TWNnTGszdzRhYXdWYg==#hitachinsk/FGT&Date" frameBorder="0"></iframe>
+
+### Bibtex
+```bibtex
+@misc{https://doi.org/10.48550/arxiv.2301.10048,
+  doi = {10.48550/ARXIV.2301.10048},
+  url = {https://arxiv.org/abs/2301.10048},
+  author = {Zhang, Kaidong and Peng, Jialun and Fu, Jingjing and Liu, Dong},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Exploiting Optical Flow Guidance for Transformer-Based Video Inpainting},
+  publisher = {arXiv},
+  year = {2023},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+```
