@@ -40,7 +40,7 @@ Awards
 
 Services
 ======
-Reviewer of CVPR, ECCV, TCSVT and the Journal of University of Science and Technology of China (JUST).
+Reviewer of CVPR, ECCV, TIP, TMI, TCSVT and the Journal of University of Science and Technology of China (JUST).
 
 Publications
 ======
