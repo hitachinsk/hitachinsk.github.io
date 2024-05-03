@@ -40,7 +40,7 @@ Awards
 
 Services
 ======
-Reviewer of CVPR, ECCV, TIP, TMI, TCSVT, the Journal of University of Science and Technology of China (JUST) and CAAI Transactions on Intelligence Technology ([certificate](https://hitachinsk.github.io/files/CIT2_Reviewer_Certificate_2023.pdf)).
+Reviewer of CVPR, ECCV, TIP, TMI and CAAI Transactions on Intelligence Technology ([certificate](https://hitachinsk.github.io/files/CIT2_Reviewer_Certificate_2023.pdf)).
 
 Publications
 ======
